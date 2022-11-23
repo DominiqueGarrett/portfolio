@@ -47,6 +47,7 @@ Developer's name, a recent photo or avatar, and links to sections about them, th
  
  
  Information about Developer
+ 
 <img width="750" alt="Screen Shot 2022-11-23 at 10 29 52 AM" src="https://user-images.githubusercontent.com/114618684/203598855-81ec830d-704a-47b5-8332-d87e23b9157f.png">
 
 
