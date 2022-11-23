@@ -1,7 +1,7 @@
 # portfolio
 Module 2 Challenge Assignment: Advanced CSS Challenge - Professional Portfolio
 
-Deployed Application: ________________________________
+Deployed Application: https://dominiquegarrett.github.io/professional-portfolio/
 
 
 ## Description
