@@ -5,7 +5,7 @@ Deployed Application: https://dominiquegarrett.github.io/professional-portfolio/
 
 
 ## Description
-
+A developer portfolio is a website that showcases your best work, personality and talents. It is your best chance to prove your skills, share your enthusiasm about the profession and give your potential employers and clients a glimpse of how awesome it would be to work with you. In this web application I have created a professional portfolio to showcase my skills.
 
 
 
@@ -42,13 +42,19 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Usage
 
-
-
+Developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them 
+<img width="1427" alt="Screen Shot 2022-11-23 at 10 23 21 AM" src="https://user-images.githubusercontent.com/114618684/203597491-80b34958-370c-4616-bfa9-cb243d0f8d9c.png">
+ 
+ 
+ Information about Developer
+<img width="1440" alt="Screen Shot 2022-11-23 at 10 23 27 AM" src="https://user-images.githubusercontent.com/114618684/203597618-80fb24f7-8b74-4048-8e4c-06c26eaca723.png">
 
 
 ## Credits
 
+
 Tutorials:
+https://www.youtube.com/watch?v=kk5dZVfCpgk
 
 
 ## License
@@ -57,4 +63,4 @@ MIT License
 
 🏆 
 
-# Technologies Used: 
+# Technologies Used: HTML & CSS
