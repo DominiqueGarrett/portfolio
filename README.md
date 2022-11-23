@@ -47,7 +47,8 @@ Developer's name, a recent photo or avatar, and links to sections about them, th
  
  
  Information about Developer
-<img width="1440" alt="Screen Shot 2022-11-23 at 10 23 27 AM" src="https://user-images.githubusercontent.com/114618684/203597618-80fb24f7-8b74-4048-8e4c-06c26eaca723.png">
+<img width="750" alt="Screen Shot 2022-11-23 at 10 29 52 AM" src="https://user-images.githubusercontent.com/114618684/203598855-81ec830d-704a-47b5-8332-d87e23b9157f.png">
+
 
 
 ## Credits
