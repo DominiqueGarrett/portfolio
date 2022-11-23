@@ -55,7 +55,7 @@ body {
   /*YOUR NAME*/
   text-transform: uppercase;
   font-weight: 800;
-  font-size: 3em;
+  font-size: 7em;
   margin-bottom: 0;
 }
 
@@ -272,4 +272,21 @@ h4 {
 
 .white-text {
   color: white;
+}
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 400px;
+}
+
+.project-card1 {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 900px;
+}
+
+.project-image1 {
+  width: 900;
 }
